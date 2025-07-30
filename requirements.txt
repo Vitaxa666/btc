@@ -1,0 +1,1 @@
+python-telegram-bot pandas requests ta scikit-learn tensorflow apscheduler scikit-learn matplotlib
