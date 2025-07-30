@@ -16,8 +16,8 @@ from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler
 from apscheduler.schedulers.background import BackgroundScheduler
 
 # === 🔐 Конфіг ===
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = YOUR_CHAT_ID
+TELEGRAM_TOKEN = "8397091276:AAFoaAt8KmLs9Zflm42fJn2365vzDgnaFt0"
+CHAT_ID = 7118738188
 MODEL_PATH = "btc_lstm_model.h5"
 
 # === 📥 Binance API дані ===
